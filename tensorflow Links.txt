@@ -1,0 +1,62 @@
+Important Tensorflow Article to read
+
+Introducing TensorFlow Datasets:
+https://medium.com/tensorflow/introducing-tensorflow-datasets-c7f01f7e19f3
+
+Introducing the Model Optimization Toolkit for TensorFlow:
+https://medium.com/tensorflow/introducing-the-model-optimization-toolkit-for-tensorflow-254aca1ba0a3
+
+Building a text classification model with TensorFlow Hub and Estimators:
+https://medium.com/tensorflow/building-a-text-classification-model-with-tensorflow-hub-and-estimators-3169e7aa568
+
+How to train Boosted Trees models in TensorFlow:
+https://medium.com/tensorflow/how-to-train-boosted-trees-models-in-tensorflow-ca8466a53127
+
+TensorFlow at O’Reilly AI Conference, San Francisco '18
+https://www.youtube.com/playlist?list=PLQY2H8rRoyvw68_sICO2opsQXNJh3iNlB
+
+Complete code examples for Machine Translation with Attention, Image Captioning, Text Generation, and DCGAN implemented with tf.keras and eager execution:
+https://medium.com/tensorflow/complete-code-examples-for-machine-translation-with-attention-image-captioning-text-generation-51663d07a63d
+
+MIT Deep Learning Basics: Introduction and Overview with TensorFlow:
+https://medium.com/tensorflow/mit-deep-learning-basics-introduction-and-overview-with-tensorflow-355bcd26baf0
+
+Seedbank - discover machine learning examples:
+https://medium.com/tensorflow/seedbank-discover-machine-learning-examples-2ff894542b57
+
+Getting Started with TensorFlow.js:
+https://medium.com/tensorflow/getting-started-with-tensorflow-js-50f6783489b2
+https://medium.com/tensorflow/a-gentle-introduction-to-tensorflow-js-dba2e5257702
+
+Colab: An easy way to learn and use TensorFlow:(https://colab.research.google.com)
+https://medium.com/tensorflow/colab-an-easy-way-to-learn-and-use-tensorflow-d74d1686e309
+
+Introducing TensorFlow Probability:
+https://medium.com/tensorflow/introducing-tensorflow-probability-dca4c304e245
+
+Fashion-MNIST with tf.Keras:
+https://medium.com/tensorflow/hello-deep-learning-fashion-mnist-with-keras-50fcff8cd74a
+
+Highlights from the TensorFlow Developer Summit, 2018:
+https://medium.com/tensorflow/highlights-from-tensorflow-developer-summit-2018-cd86615714b2
+
+Classifying text with TensorFlow Estimators
+https://medium.com/tensorflow/classifying-text-with-tensorflow-estimators-a99603033fbe
+
+Standardizing on Keras: Guidance on High-level APIs in TensorFlow 2.0:
+https://medium.com/tensorflow/standardizing-on-keras-guidance-on-high-level-apis-in-tensorflow-2-0-bad2b04c819a
+
+Training and Serving ML models with tf.keras
+https://medium.com/tensorflow/training-and-serving-ml-models-with-tf-keras-fd975cc0fa27
+
+Tensorflow Labs:
+https://github.com/Hvass-Labs/TensorFlow-Tutorials
+https://github.com/udacity/CarND-TensorFlow-Lab
+https://github.com/hunkim/DeepLearningZeroToAll
+
+Keras
+https://github.com/fchollet/deep-learning-with-python-notebooks
+https://github.com/erhwenkuo/deep-learning-with-keras-notebooks
+https://github.com/JordiTorresBCN/DEEP-LEARNING-practical-introduction-with-Keras
+https://github.com/nzw0301/keras-examples
+https://github.com/keras-team/keras/tree/master/examples
